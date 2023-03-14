@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_D8GTO_VEH</lockHash>
+			<modelNameHash>d8gto</modelNameHash>
+			<cost value="100"/>
+			<textLabel>D8GTO</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>
